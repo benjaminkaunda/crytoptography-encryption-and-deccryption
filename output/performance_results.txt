@@ -1,0 +1,5 @@
+Performance Comparison Results:
+ECC Key Generation Time (1000 iterations): 0.025390 seconds
+RSA Key Generation Time (1000 iterations): 63.700423 seconds
+ECC Encryption Time (1000 iterations): 0.197278 seconds
+RSA Encryption Time (1000 iterations): 0.039023 seconds
